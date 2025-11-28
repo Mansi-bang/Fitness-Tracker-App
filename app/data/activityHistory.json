@@ -1,0 +1,20 @@
+[
+  {
+    "id": "h1",
+    "title": "Morning Run",
+    "description": "Completed a 28-minute morning run",
+    "date": "2025-01-22"
+  },
+  {
+    "id": "h2",
+    "title": "Cycling Session",
+    "description": "45-minute endurance cycle ride",
+    "date": "2025-01-21"
+  },
+  {
+    "id": "h3",
+    "title": "Yoga Flexibility",
+    "description": "30-minute yoga stretching and relaxation",
+    "date": "2025-01-20"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "email": "demo@example.com",
+  "password": "123456",
+  "name": "John Doe",
+  "age": 27,
+  "weightKg": 71,
+  "heightCm": 176,
+  "avatar": "https://images.pexels.com/photos/633114/pexels-photo-633114.jpeg"
+}

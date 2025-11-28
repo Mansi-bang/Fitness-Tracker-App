@@ -1,0 +1,25 @@
+[
+  {
+    "id": "w1",
+    "type": "running",
+    "durationMin": 28,
+    "calories": 245,
+    "distanceKm": 2.7,
+    "timestamp": "2025-01-22T07:35:00Z"
+  },
+  {
+    "id": "w2",
+    "type": "cycling",
+    "durationMin": 45,
+    "calories": 390,
+    "distanceKm": 12.4,
+    "timestamp": "2025-01-21T18:10:00Z"
+  },
+  {
+    "id": "w3",
+    "type": "yoga",
+    "durationMin": 30,
+    "calories": 120,
+    "timestamp": "2025-01-20T06:50:00Z"
+  }
+]

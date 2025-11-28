@@ -1,0 +1,10 @@
+{
+  "dailyStepGoal": 10000,
+  "weeklyWorkoutGoal": 5,
+  "dailyCalorieGoal": 600,
+  "progress": {
+    "stepsToday": 6842,
+    "workoutsThisWeek": 3,
+    "caloriesToday": 420
+  }
+}
